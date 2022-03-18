@@ -1,6 +1,14 @@
 ## MikaStars★的博客
 ## Blog of MikaStars★
 
+Tutorial of using vitual Webcame to cheat your teacher in online meetings or examnations:
+
+1.install OBS. OBS is a software which allows users to freely control their output video flow and is widely used in online lives.  The link of this software can be easily found on Internet.
+
+
+
+Below is the original text from Github.
+
 You can use the [editor on GitHub](https://github.com/MikaStars39/mikastars.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
